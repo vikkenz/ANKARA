@@ -10,10 +10,10 @@ if($url[1] == 'localhost/'){
 }
 
 //dados conexão bd local
-$servidor = 'host4069.hospedameusite.net';
-$banco = 'ankaramodaafroco_bando';
-$usuario = 'ankaramodaafroco_vikken';
-$senha = '1odinista23';
+$servidor = 'hostgator';
+$banco = 'ankaramoda';
+$usuario = 'ankara';
+$senha = 'teste23';
 
 try {
 	$pdo = new PDO("mysql:dbname=$banco;host=$servidor;charset=utf8", "$usuario", "$senha");
