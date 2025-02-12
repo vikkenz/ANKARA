@@ -1,0 +1,100 @@
+[22-Jan-2025 22:38:23 America/Sao_Paulo] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home/ankaramodaafroco/public_html/sistema/painel_loja/paginas/produtos/salvar.php:114
+Stack trace:
+#0 /home/ankaramodaafroco/public_html/sistema/painel_loja/paginas/produtos/salvar.php(114): getimagesize()
+#1 {main}
+  thrown in /home/ankaramodaafroco/public_html/sistema/painel_loja/paginas/produtos/salvar.php on line 114
+[22-Jan-2025 22:41:40 America/Sao_Paulo] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home/ankaramodaafroco/public_html/sistema/painel_loja/paginas/produtos/salvar.php:114
+Stack trace:
+#0 /home/ankaramodaafroco/public_html/sistema/painel_loja/paginas/produtos/salvar.php(114): getimagesize()
+#1 {main}
+  thrown in /home/ankaramodaafroco/public_html/sistema/painel_loja/paginas/produtos/salvar.php on line 114
+[22-Jan-2025 22:41:57 America/Sao_Paulo] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home/ankaramodaafroco/public_html/sistema/painel_loja/paginas/produtos/salvar.php:114
+Stack trace:
+#0 /home/ankaramodaafroco/public_html/sistema/painel_loja/paginas/produtos/salvar.php(114): getimagesize()
+#1 {main}
+  thrown in /home/ankaramodaafroco/public_html/sistema/painel_loja/paginas/produtos/salvar.php on line 114
+[22-Jan-2025 22:43:16 America/Sao_Paulo] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home/ankaramodaafroco/public_html/sistema/painel_loja/paginas/produtos/salvar.php:114
+Stack trace:
+#0 /home/ankaramodaafroco/public_html/sistema/painel_loja/paginas/produtos/salvar.php(114): getimagesize()
+#1 {main}
+  thrown in /home/ankaramodaafroco/public_html/sistema/painel_loja/paginas/produtos/salvar.php on line 114
+[22-Jan-2025 22:46:31 America/Sao_Paulo] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home/ankaramodaafroco/public_html/sistema/painel_loja/paginas/produtos/salvar.php:114
+Stack trace:
+#0 /home/ankaramodaafroco/public_html/sistema/painel_loja/paginas/produtos/salvar.php(114): getimagesize()
+#1 {main}
+  thrown in /home/ankaramodaafroco/public_html/sistema/painel_loja/paginas/produtos/salvar.php on line 114
+[22-Jan-2025 22:52:55 America/Sao_Paulo] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home/ankaramodaafroco/public_html/sistema/painel_loja/paginas/produtos/salvar.php:114
+Stack trace:
+#0 /home/ankaramodaafroco/public_html/sistema/painel_loja/paginas/produtos/salvar.php(114): getimagesize()
+#1 {main}
+  thrown in /home/ankaramodaafroco/public_html/sistema/painel_loja/paginas/produtos/salvar.php on line 114
+[22-Jan-2025 22:54:11 America/Sao_Paulo] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home/ankaramodaafroco/public_html/sistema/painel_loja/paginas/produtos/salvar.php:114
+Stack trace:
+#0 /home/ankaramodaafroco/public_html/sistema/painel_loja/paginas/produtos/salvar.php(114): getimagesize()
+#1 {main}
+  thrown in /home/ankaramodaafroco/public_html/sistema/painel_loja/paginas/produtos/salvar.php on line 114
+[22-Jan-2025 22:55:22 America/Sao_Paulo] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home/ankaramodaafroco/public_html/sistema/painel_loja/paginas/produtos/salvar.php:114
+Stack trace:
+#0 /home/ankaramodaafroco/public_html/sistema/painel_loja/paginas/produtos/salvar.php(114): getimagesize()
+#1 {main}
+  thrown in /home/ankaramodaafroco/public_html/sistema/painel_loja/paginas/produtos/salvar.php on line 114
+[22-Jan-2025 22:55:52 America/Sao_Paulo] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home/ankaramodaafroco/public_html/sistema/painel_loja/paginas/produtos/salvar.php:114
+Stack trace:
+#0 /home/ankaramodaafroco/public_html/sistema/painel_loja/paginas/produtos/salvar.php(114): getimagesize()
+#1 {main}
+  thrown in /home/ankaramodaafroco/public_html/sistema/painel_loja/paginas/produtos/salvar.php on line 114
+[22-Jan-2025 22:55:55 America/Sao_Paulo] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home/ankaramodaafroco/public_html/sistema/painel_loja/paginas/produtos/salvar.php:114
+Stack trace:
+#0 /home/ankaramodaafroco/public_html/sistema/painel_loja/paginas/produtos/salvar.php(114): getimagesize()
+#1 {main}
+  thrown in /home/ankaramodaafroco/public_html/sistema/painel_loja/paginas/produtos/salvar.php on line 114
+[22-Jan-2025 22:55:56 America/Sao_Paulo] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home/ankaramodaafroco/public_html/sistema/painel_loja/paginas/produtos/salvar.php:114
+Stack trace:
+#0 /home/ankaramodaafroco/public_html/sistema/painel_loja/paginas/produtos/salvar.php(114): getimagesize()
+#1 {main}
+  thrown in /home/ankaramodaafroco/public_html/sistema/painel_loja/paginas/produtos/salvar.php on line 114
+[22-Jan-2025 22:55:56 America/Sao_Paulo] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home/ankaramodaafroco/public_html/sistema/painel_loja/paginas/produtos/salvar.php:114
+Stack trace:
+#0 /home/ankaramodaafroco/public_html/sistema/painel_loja/paginas/produtos/salvar.php(114): getimagesize()
+#1 {main}
+  thrown in /home/ankaramodaafroco/public_html/sistema/painel_loja/paginas/produtos/salvar.php on line 114
+[22-Jan-2025 22:55:56 America/Sao_Paulo] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home/ankaramodaafroco/public_html/sistema/painel_loja/paginas/produtos/salvar.php:114
+Stack trace:
+#0 /home/ankaramodaafroco/public_html/sistema/painel_loja/paginas/produtos/salvar.php(114): getimagesize()
+#1 {main}
+  thrown in /home/ankaramodaafroco/public_html/sistema/painel_loja/paginas/produtos/salvar.php on line 114
+[22-Jan-2025 22:55:56 America/Sao_Paulo] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home/ankaramodaafroco/public_html/sistema/painel_loja/paginas/produtos/salvar.php:114
+Stack trace:
+#0 /home/ankaramodaafroco/public_html/sistema/painel_loja/paginas/produtos/salvar.php(114): getimagesize()
+#1 {main}
+  thrown in /home/ankaramodaafroco/public_html/sistema/painel_loja/paginas/produtos/salvar.php on line 114
+[22-Jan-2025 22:55:57 America/Sao_Paulo] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home/ankaramodaafroco/public_html/sistema/painel_loja/paginas/produtos/salvar.php:114
+Stack trace:
+#0 /home/ankaramodaafroco/public_html/sistema/painel_loja/paginas/produtos/salvar.php(114): getimagesize()
+#1 {main}
+  thrown in /home/ankaramodaafroco/public_html/sistema/painel_loja/paginas/produtos/salvar.php on line 114
+[22-Jan-2025 22:55:57 America/Sao_Paulo] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home/ankaramodaafroco/public_html/sistema/painel_loja/paginas/produtos/salvar.php:114
+Stack trace:
+#0 /home/ankaramodaafroco/public_html/sistema/painel_loja/paginas/produtos/salvar.php(114): getimagesize()
+#1 {main}
+  thrown in /home/ankaramodaafroco/public_html/sistema/painel_loja/paginas/produtos/salvar.php on line 114
+[22-Jan-2025 22:55:57 America/Sao_Paulo] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home/ankaramodaafroco/public_html/sistema/painel_loja/paginas/produtos/salvar.php:114
+Stack trace:
+#0 /home/ankaramodaafroco/public_html/sistema/painel_loja/paginas/produtos/salvar.php(114): getimagesize()
+#1 {main}
+  thrown in /home/ankaramodaafroco/public_html/sistema/painel_loja/paginas/produtos/salvar.php on line 114
+[22-Jan-2025 22:55:58 America/Sao_Paulo] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home/ankaramodaafroco/public_html/sistema/painel_loja/paginas/produtos/salvar.php:114
+Stack trace:
+#0 /home/ankaramodaafroco/public_html/sistema/painel_loja/paginas/produtos/salvar.php(114): getimagesize()
+#1 {main}
+  thrown in /home/ankaramodaafroco/public_html/sistema/painel_loja/paginas/produtos/salvar.php on line 114
+[22-Jan-2025 23:07:57 America/Sao_Paulo] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home/ankaramodaafroco/public_html/sistema/painel_loja/paginas/produtos/salvar.php:113
+Stack trace:
+#0 /home/ankaramodaafroco/public_html/sistema/painel_loja/paginas/produtos/salvar.php(113): getimagesize()
+#1 {main}
+  thrown in /home/ankaramodaafroco/public_html/sistema/painel_loja/paginas/produtos/salvar.php on line 113
+[22-Jan-2025 23:16:26 America/Sao_Paulo] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home/ankaramodaafroco/public_html/sistema/painel_loja/paginas/produtos/salvar.php:114
+Stack trace:
+#0 /home/ankaramodaafroco/public_html/sistema/painel_loja/paginas/produtos/salvar.php(114): getimagesize()
+#1 {main}
+  thrown in /home/ankaramodaafroco/public_html/sistema/painel_loja/paginas/produtos/salvar.php on line 114
