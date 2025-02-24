@@ -3,7 +3,6 @@
 require_once("../conexao.php");
 require_once("verificar.php");
 
-
 $data_atual = date('Y-m-d');
 $mes_atual = Date('m');
 $ano_atual = Date('Y');
