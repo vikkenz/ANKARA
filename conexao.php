@@ -11,7 +11,7 @@ if($url[1] == 'localhost/'){
 
 //dados conexão bd local
 $servidor = 'localhost';
-$banco = 'ankaramoda';
+$banco = 'loja1';
 $usuario = 'root';
 $senha = '';
 
