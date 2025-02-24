@@ -11,7 +11,6 @@ if($linhas == 0){
 	$pdo->query("INSERT INTO usuarios SET nome = '$nome_sistema', email = '$email_sistema', senha_crip = '$senha_crip', nivel = 'Administrador', ativo = 'Sim', foto = 'sem-foto.jpg', telefone = '$telefone_sistema', data = curDate(), mostrar_registros = 'Sim' ");
 }
 
-
 //criar o banner padrao
 $query = $pdo->query("SELECT * from banners");
 $res = $query->fetchAll(PDO::FETCH_ASSOC);
